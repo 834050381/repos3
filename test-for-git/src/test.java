@@ -11,6 +11,11 @@ public class test {
         System.out.println("aaa");
         System.out.println("aaa");
     }
+    public void  test1(){
+
+        System.out.println("test1");
+
+    }
 
 
 
